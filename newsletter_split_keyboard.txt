@@ -1,0 +1,114 @@
+# ⌨️ THE SPLIT // Issue #47 — November 2025
+
+*Your weekly dispatch on the keyboard world's quietest revolution.*
+
+---
+
+## The Hook
+
+**The keyboard you've been typing on is about to become extinct.**
+
+Not literally. But this week, three separate trends converged on the same conclusion: **the split keyboard just escaped the hobbyist basement and walked into Best Buy.**
+
+For the better part of a decade, "ergonomic split" meant hand-wired PCBs, Discord group buys, and three-month Reddit rabbit holes. That era is ending — fast. A $300 ROG gaming split with magnetic switches shipped to retail. A 420-gram aluminum split you can stuff in a jacket pocket is going live on Kickstarter. And the trackball-on-keyboard crowd finally has a one-stop shop.
+
+This is the week the niche became a category. Here's what just happened — and what it means for your next purchase.
+
+---
+
+##  The Three Trends That Matter This Week
+
+###  TREND 1 — Hall-Effect Splits Go Mainstream for Gaming
+**The Signal:** ASUS — yes, *that* ASUS — shipped the **ROG Falcata**, a wireless 75% split with magnetic Hall-effect switches and 8 kHz polling. It's the first time a major OEM has married "split ergo" with "competitive gaming" in a real, retail product.
+
+**Why it matters:** Until now, the gaming world had magnetic switches (Wooting, SteelSeries, Keychron) and the ergo world had splits — and the two universes never met. The Falcata broke that barrier. Wooting's own subreddit is now debating whether to build a split. That's competitive urgency.
+
+**The catch:** Ergo purists are grumbling that the Falcata isn't *truly* ergonomic — not enough tenting, not enough column stagger. There's a buyer-mismatch risk: gamers buy it, never learn touch typing on columns, and return to a TKL within 18 months.
+
+**Impact Score: 8.5/10**
+
+---
+
+### ️ TREND 2 — The Split That Fits in Your Bag
+**The Signal:** Two ultraportable splits are making noise. The **ElimKeys Elytra** (11.8 mm thick, 420 g, full aluminum, Kailh Choc V2, Bluetooth + USB-C) hits Kickstarter December 16. The **JOMAA Portable Folding Split** folds to 55 mm and ships on Amazon now.
+
+**Why it matters:** For the first time, splits are being marketed to *people who have never heard of QMK*. Knowledge workers, frequent flyers, MacBook users who would never build a Corne but would spend $200 on something that fits in a backpack and doesn't wreck their wrists.
+
+**The math:** Even0.5% of the portable keyboard market =500k+ units/year. That's10–25x the current commercial split market.
+
+**The catch:** Crowdfunding execution risk. ElimKeys is young. JOMAA is a generic Amazon listing with unclear support. The trend is sound even if specific products flame out.
+
+**Impact Score: 7.5/10**
+
+---
+
+### ️ TREND 3 — Splits That Kill the Mouse
+**The Signal:** Charybdis, Keyball, NAYA, and the Holykeebs ecosystem are all gaining traction. Reddit threads this week are asking *"What's an affordable split with a trackball?"* and the answers all converge on the same handful of designs. BastardKB's Charybdis Nano is even spawning AliExpress clones — a positive demand signal.
+
+**Why it matters:** Reaching for a mouse is the single largest contributor to non-ergonomic posture. Boards that integrate a trackball, trackpoint, or touchpad eliminate that reach entirely. Holykeebs is now positioning as the canonical one-stop-shop — trackball, trackpoint, and touchpad under one roof.
+
+**The catch:** This trend has been "almost breaking out" for five years. The learning curve is the highest of the three. The aesthetic is a commitment. There's no Falcata-style catalyst forcing mainstream adoption.
+
+**Impact Score: 6.0/10**
+
+---
+
+##  The Meta-Signal
+
+What makes this week unusual isn't any single trend — it's that **all three are firing simultaneously.** The split keyboard form factor is exiting its hobbyist phase and entering a productization phase. For years, this category moved one trend at a time. Now it's moving on three vectors at once: *performance gaming, mobility, and input consolidation.*
+
+That's a category-maturation pattern. Think mechanical keyboards circa 2015–2017, when suddenly multiple form factors and switch types all matured at once.
+
+---
+
+##  What To Do Now
+
+**If you're a gamer who cares about wrist health:**
+ Look at the ROG Falcata. It's the first product that doesn't force you to choose between competitive edge and ergonomic form factor. Real-world reviews are positive but note the ergonomics are a compromise — not a purist split.
+
+**If you travel and type a lot:**
+ Watch the ElimKeys Elytra Kickstarter (Dec 16 launch). 420g, aluminum, low-profile choc switches — this is the first portable split that doesn't feel like a typing downgrade. The JOMAA foldable is on Amazon now if you need something today.
+
+**If you're tired of reaching for a mouse:**
+ Holykeebs is your starting point. Charybdis Nano is the most accessible entry. Just know the learning curve is real — budget two weeks before judging.
+
+**If you're still on a traditional keyboard:**
+ Pick one trend. The portable split (Trend 2) has the lowest barrier to entry for non-enthusiasts. That's where the category is heading next.
+
+---
+
+##  The Scorecard
+
+| Trend | Score | Verdict |
+|-------|-------|---------|
+| HE Magnetic Switch Splits (Gaming) | **8.5** | Category-creation event; highest TAM |
+| Ultraportable Wireless Splits (Travel) | **7.5** | Best risk-adjusted return; unlocks new buyers |
+| Splits with Integrated Pointing Devices | **6.0** | Real but slow; needs a 3–5 year horizon |
+
+---
+
+## ️ On Our Radar
+
+- **Halcyon Corne MX + Lily58 Choc** — Splitkb's winter 2025 release; signals mainstream vendor wireless push
+- **Ergogen v4** — Declarative YAML keyboard design going mainstream; lowers the barrier to custom PCB design
+- **MOErgo Glove80/Go60** — Users reporting failures and switching to competitors; watch for community response
+- **Dygma Defy October refresh** — Engadget's 2026 best-ergonomic list cites it; Gateron Pro switches
+
+---
+
+##  Over To You
+
+**Which trend are you most excited about — and why?** Hit reply. We feature the best responses next week.
+
+And if you know someone who's been complaining about wrist pain for six months and won't shut up about their Logitech MX Keys... forward this. The portable split wave is their entry point.
+
+---
+
+*Thanks for reading. Forward to a friend who still thinks split keyboards are weird.*
+
+**— The Split Team**
+*Weekly. Every Tuesday. 5-minute read.*
+
+---
+
+*Sources: r/ErgoMechKeyboards, r/MechanicalKeyboards, kbd.news, GitHub (awesome-split-keyboards, Ergogen), X/Twitter (@ElimKeys, @moergo_keeb, @keebio), Computex 2025 coverage, Wired, Engadget, MakeUseOf, Kitguru, Bulsuk, vendor sites (ZSA, MoErgo, ASUS ROG, Keychron, BastardKB, Holykeebs, Beekeeb).*

@@ -1,0 +1,19 @@
+[project]
+name = "trend-spotter"
+version = "0.1.0"
+description = "A CrewAI-powered trend spotting newsletter generator"
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "crewai",
+    "crewai-tools",
+    "python-dotenv",
+    "rich",
+]
+
+[project.scripts]
+trend-spotter = "trend_spotter.main:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
